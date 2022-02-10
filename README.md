@@ -83,6 +83,10 @@ Distributed under the Apache License. See `LICENSE` file for more information.
 - [![Facebook Profile](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shofikul21)&nbsp;
 - [![Telegram](https://img.shields.io/badge/Telegram-ID-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TeamxZone1337)&nbsp;
 
+**IGN0R3DH4X0R** ***(API Developer)***
+- [![Facebook Profile](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ffsowmik)&nbsp;
+- [![Telegram](https://img.shields.io/badge/Telegram-ID-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xowmik)&nbsp;
+
 **Team X 1337**
 - [![Facebook Group](https://img.shields.io/badge/Facebook-Group-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/groups/team.x.official.community)&nbsp;
 - [![Facebook Page](https://img.shields.io/badge/Facebook-Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ign0r3dh4x0r)&nbsp;
